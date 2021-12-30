@@ -1,0 +1,92 @@
+[
+    {
+        "name":"August Internet",
+        "asn":"7719",
+        "ipv4":"149.112.26.1",
+        "ipv6":"2a0f:607:1070::1"
+    },
+    {
+        "name":"Internet Technology Laboratory",
+        "asn":"38254",
+        "ipv4":"149.112.26.2",
+        "ipv6":"2a0f:607:1070::2"
+    },
+        {
+        "name":"RHE-NET",
+        "asn":"51044",
+        "ipv4":"149.112.26.3",
+        "ipv6":"2a0f:607:1070::3"
+    },
+        {
+        "name":"SteveYi Network Service",
+        "asn":"60614",
+        "ipv4":"149.112.26.4",
+        "ipv6":"2a0f:607:1070::4"
+    },
+        {
+        "name":"Yu-Cheng Kuo",
+        "asn":"210932",
+        "ipv4":"149.112.26.5",
+        "ipv6":"2a0f:607:1070::5"
+    },
+        {
+        "name":"Chan-Chun Yen",
+        "asn":"212534",
+        "ipv4":"149.112.26.6",
+        "ipv6":"2a0f:607:1070::6"
+    },
+        {
+        "name":"Haraguroicha Internet Service",
+        "asn":"212359",
+        "ipv4":"149.112.26.7",
+        "ipv6":"2a0f:607:1070::7"
+    },
+    {
+        "name":"Little Moe LLC",
+        "asn":"43126",
+        "ipv4":"149.112.26.8",
+        "ipv6":"2a0f:607:1070::8"
+    },
+    {
+        "name":"Black Mesa Corporation",
+        "asn":"46997",
+        "ipv4":"149.112.26.9",
+        "ipv6":"2a0f:607:1070::9"
+    },
+    {
+        "name":"Low End Network",
+        "asn":"210872",
+        "ipv4":"149.112.26.10",
+        "ipv6":"2a0f:607:1070::10"
+    },
+    {
+        "name":"MrSheepNET LTD",
+        "asn":"211323",
+        "ipv4":"149.112.26.11",
+        "ipv6":"2a0f:607:1070::11"
+    },
+    {
+        "name":"Jimmy Pan",
+        "asn":"212360",
+        "ipv4":"149.112.26.12",
+        "ipv6":"2a0f:607:1070::12"
+    },
+    {
+        "name":"Cloudie Networks",
+        "asn":"60438",
+        "ipv4":"149.112.26.14",
+        "ipv6":"2a0f:607:1070::14"
+    },
+    {
+        "name":"Route Server 1",
+        "asn":"51930",
+        "ipv4":"149.112.26.253",
+        "ipv6":"2a0f:607:1070::253"
+    },
+    {
+        "name":"Route Server 1",
+        "asn":"51930",
+        "ipv4":"149.112.26.254",
+        "ipv6":"2a0f:607:1070::254"
+    }
+]
