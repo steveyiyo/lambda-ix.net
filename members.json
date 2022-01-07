@@ -72,6 +72,12 @@
         "ipv6":"2a0f:607:1070::12"
     },
     {
+        "name":"Hurricane Electric",
+        "asn":"6939",
+        "ipv4":"149.112.26.13",
+        "ipv6":"2a0f:607:1070::13"
+    },
+    {
         "name":"Cloudie Networks",
         "asn":"60438",
         "ipv4":"149.112.26.14",
