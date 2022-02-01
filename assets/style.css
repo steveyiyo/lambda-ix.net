@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
+
 html {
     box-sizing: border-box;
     font-size: 18px;
@@ -61,6 +63,8 @@ table {
 
 th,
 td {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: bold;
     text-align: left;
     padding: 4px;
 }
